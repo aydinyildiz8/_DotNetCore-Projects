@@ -1,0 +1,29 @@
+﻿@model EntityLayer.Concrete.Admin
+
+@{
+    ViewData["Title"] = "AddAdmin";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+      <div class="card-body">
+        <h4 class="card-title">Yeni Admin Girişi</h4>
+          <form class="forms-sample" method="post">
+          <div class="form-group">
+            <label for="exampleInputName">Kullanıcı Adı</label>
+            <input type="text" class="form-control" id="exampleInputTitle" placeholder="Lütfen Kullanıcı Adınızı Giriniz" asp-for="AdminName">
+          </div>
+            <div class="form-group">
+            <label for="exampleInputPassword">Şifre</label>
+            <input type="password" class="form-control" id="exampleInputPassword" placeholder="Lütfen Şifrenizi Giriniz" asp-for="Password">
+          </div>
+       
+          <button type="submit" class="btn btn-outline-info me-2">Kaydet</button>
+          <a href="/Admin/Index/" class="btn btn-light">Vazgeç</a>
+        </form>
+      </div>
+    </div>
+  </div>
+

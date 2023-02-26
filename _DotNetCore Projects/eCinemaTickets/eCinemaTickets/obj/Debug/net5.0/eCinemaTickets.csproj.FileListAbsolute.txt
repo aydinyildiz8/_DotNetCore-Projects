@@ -1,0 +1,428 @@
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\appsettings.json
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.exe
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.deps.json
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.runtimeconfig.json
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.runtimeconfig.dev.json
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.Views.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.Views.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.AssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorAssemblyInfo.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorAssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\scopedcss\bundle\eCinemaTickets.styles.css
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\eCinemaTickets.StaticWebAssets.Manifest.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\eCinemaTickets.StaticWebAssets.Pack.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.eCinemaTickets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.build.eCinemaTickets.props
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.eCinemaTickets.props
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.eCinemaTickets.props
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.TagHelpers.input.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.TagHelpers.output.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorCoreGenerate.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorTargetAssemblyInfo.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorTargetAssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.Views.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\refint\eCinemaTickets.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.genruntimeconfig.cache
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\ref\eCinemaTickets.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.CopyComplete
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\aydin\Desktop\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\appsettings.Development.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\appsettings.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.exe
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.deps.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.runtimeconfig.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.runtimeconfig.dev.json
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.Views.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.Views.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Humanizer.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.AssemblyReference.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.AssemblyInfoInputs.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.AssemblyInfo.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.CoreCompileInputs.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorAssemblyInfo.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorAssemblyInfo.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\scopedcss\bundle\eCinemaTickets.styles.css
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\eCinemaTickets.StaticWebAssets.Manifest.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\eCinemaTickets.StaticWebAssets.Pack.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.eCinemaTickets.Microsoft.AspNetCore.StaticWebAssets.props
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.build.eCinemaTickets.props
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.eCinemaTickets.props
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.eCinemaTickets.props
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.TagHelpers.input.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.TagHelpers.output.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorCoreGenerate.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorTargetAssemblyInfo.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorTargetAssemblyInfo.cs
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.Views.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.CopyComplete
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\refint\eCinemaTickets.dll
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.pdb
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.genruntimeconfig.cache
+D:\masaüstü\dotNetProjects\Wissen Full Stack\Ev Çalışmaları\dotNetCore\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\ref\eCinemaTickets.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\appsettings.Development.json
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\appsettings.json
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.exe
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.deps.json
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.runtimeconfig.json
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.runtimeconfig.dev.json
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.pdb
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.Views.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.Views.pdb
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Humanizer.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.AssemblyReference.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.AssemblyInfoInputs.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.AssemblyInfo.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.CoreCompileInputs.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorAssemblyInfo.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorAssemblyInfo.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\scopedcss\bundle\eCinemaTickets.styles.css
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\eCinemaTickets.StaticWebAssets.Manifest.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\eCinemaTickets.StaticWebAssets.Pack.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.eCinemaTickets.Microsoft.AspNetCore.StaticWebAssets.props
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.build.eCinemaTickets.props
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.eCinemaTickets.props
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.eCinemaTickets.props
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.TagHelpers.input.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.TagHelpers.output.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorCoreGenerate.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorTargetAssemblyInfo.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorTargetAssemblyInfo.cs
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.Views.pdb
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.CopyComplete
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\refint\eCinemaTickets.dll
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.pdb
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.genruntimeconfig.cache
+D:\masaüstü\GitHub\DotNetCore Project\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\ref\eCinemaTickets.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\appsettings.Development.json
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\appsettings.json
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.exe
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.deps.json
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.runtimeconfig.json
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.runtimeconfig.dev.json
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.pdb
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.Views.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\eCinemaTickets.Views.pdb
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Humanizer.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.AssemblyReference.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.AssemblyInfoInputs.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.AssemblyInfo.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.CoreCompileInputs.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorAssemblyInfo.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorAssemblyInfo.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\scopedcss\bundle\eCinemaTickets.styles.css
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\eCinemaTickets.StaticWebAssets.Manifest.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\eCinemaTickets.StaticWebAssets.Pack.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.eCinemaTickets.Microsoft.AspNetCore.StaticWebAssets.props
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.build.eCinemaTickets.props
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.eCinemaTickets.props
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.eCinemaTickets.props
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.TagHelpers.input.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.TagHelpers.output.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorCoreGenerate.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorTargetAssemblyInfo.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.RazorTargetAssemblyInfo.cs
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.Views.pdb
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.csproj.CopyComplete
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\refint\eCinemaTickets.dll
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.pdb
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\eCinemaTickets.genruntimeconfig.cache
+D:\masaüstü\GitHub\_DotNetCore Projects\eCinemaTickets\eCinemaTickets\obj\Debug\net5.0\ref\eCinemaTickets.dll
