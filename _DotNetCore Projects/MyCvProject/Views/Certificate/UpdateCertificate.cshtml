@@ -1,0 +1,37 @@
+﻿@model MyCvProject.Models.Entities.Certificate
+
+
+@{
+    ViewData["Title"] = "UpdateCertificate";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<br />
+<h4>Yeni Sertifika Ekleme Sayfası</h4>
+<form method="post">
+    @Html.Label("ID")
+    @Html.TextBoxFor(x => x.Id, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Sertifika Adı")
+    @Html.TextBoxFor(x => x.SertifikaAdı, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Veren Kuruluş")
+    @Html.TextBoxFor(x => x.VerenKurulus, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Açıklama")
+    @Html.TextBoxFor(x => x.Aciklama, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Tarih")
+    @Html.TextBoxFor(x => x.Tarih, new {@class = "form-control"})
+    <br />
+
+    <button type="submit" class="btn btn-info">GÜNCELLE</button>
+</form>
+
+
+

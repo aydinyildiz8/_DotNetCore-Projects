@@ -1,0 +1,51 @@
+﻿@model MyCvProject.Models.Entities.About
+
+@{
+    ViewData["Title"] = "UpdateAbout";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<br />
+<h2>Profil Bilgileri Düzenleme Sayfası</h2>
+<br />
+<form method="post">
+    
+  
+        <label>Ad</label>
+        <input type="text" name="Ad" value="@Model.Ad" class="form-control" />
+        <br />
+
+        <label>Soyad</label>
+    <input type="text" name="Soyad" value="@Model.Soyad" class="form-control" />
+        <br />
+
+        <label>Meslek</label>
+    <input type="text" name="Meslek" value="@Model.Meslek" class="form-control" />
+        <br />
+
+        <label>Telefon</label>
+    <input type="text" name="Telefon" value="@Model.Telefon" class="form-control" />
+        <br />
+
+        <label>Mail Adresi</label>
+    <input type="email" name="Mail" value="@Model.Mail" class="form-control" />
+        <br />
+
+        <label>Adres</label>
+    <input type="text" name="Adres" value="@Model.Adres" class="form-control" />
+        <br />
+
+        <label>Resim URL</label>
+    <input type="text" name="ResimUrl" value="@Model.ResimUrl" class="form-control" />
+        <br />
+
+        <label>Hakkımda</label>
+    <textarea type="text" rows="5" name="Aciklama" value="@Model.Aciklama" class="form-control"></textarea>
+        <br />
+
+  
+
+    <button type="submit" class="btn btn-info">Güncelle</button>
+
+</form>

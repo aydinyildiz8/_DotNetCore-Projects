@@ -1,0 +1,21 @@
+﻿@model MyCvProject.Models.Entities.Admin
+@{
+    ViewData["Title"] = "UpdateAdmin";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="card-header"><h5>Kullanıcı Düzenleme Sayfası</h5></div>
+<div class="card-body">
+    <form method="post">
+        <div class="form-group">
+            <label>Kullanıcı Adı</label>
+            <input type="text" class="form-control" name="KullaniciAdi" value="@Model.KullaniciAdi">
+        </div>
+        <div class="form-group">
+            <label>Şifre</label>
+            <input type="password" class="form-control" name="Sifre" value="@Model.Sifre">
+        </div>
+        <button type="submit" class="btn btn-primary">GÜNCELLE</button>
+    </form>
+</div>

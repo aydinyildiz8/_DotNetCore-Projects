@@ -1,0 +1,62 @@
+﻿@using MyCvProject.Models.Entities
+@model List<Contact>
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Mesaj Görüntüleme Sayfası</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="tab-pane" id="timeline">
+
+                            <div class="timeline timeline-inverse">
+                                @foreach (var item in Model)
+                                {
+                                    <div class="time-label">
+                                        <span class="bg-warning">
+                                            @(((DateTime)item.Tarih).ToString("dd.MM.yyyy"))
+                                        </span>
+                                        <span><u>@item.Konu.ToUpper()</u></span>
+                                    </div>
+                                    <div>
+                                        <i class="fas fa-file bg-primary"></i>
+                                        <div class="timeline-item">
+                                            <p class="time" style="font-size: medium"><i class="far fa-clock mr-1"></i>@(((DateTime)item.Tarih).ToShortTimeString()) </p>
+
+                                            <h2 class="timeline-header">
+                                                <b>@item.AdSoyad.ToUpper()</b> / @item.Mail
+
+                                            </h2>
+                                            <div class="timeline-body">
+                                                @item.Mesaj
+                                            </div>
+                                            <div class="timeline-footer">
+                                                <a href="#" class="btn btn-primary btn-sm">Cevapla</a>
+                                                <a href="/Contact/DeleteContact/@item.Id" class="btn btn-danger btn-sm">Sil</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+</body>
+</html>

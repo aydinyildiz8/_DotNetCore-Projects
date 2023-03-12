@@ -1,0 +1,19 @@
+﻿@model MyCvProject.Models.Entities.Interest
+@{
+    ViewData["Title"] = "AddInterest";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h3><u>Hobi Ekleme Sayfası</u></h3>
+<form method="post">
+    @Html.Label("Hobi")
+    @Html.TextBoxFor(x =>x.Hobi, new{@class="form-control"})
+    <br />
+
+    @Html.Label("Açıklama")
+    @Html.TextAreaFor(x =>x.Aciklama, new{@class="form-control"})
+    <br />
+
+    <button type="submit" class="btn btn-info">KAYDET</button>
+</form>

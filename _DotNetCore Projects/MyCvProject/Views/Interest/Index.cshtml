@@ -1,0 +1,55 @@
+﻿@using MyCvProject.Models.Entities
+@model List<Interest>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Hobi Sayfası</h3>
+                    </div>
+                    <div>
+                        <a href="/Interest/AddInterest/" class="btn btn-info ml-5 mt-3">Yeni Hobi Ekle</a>
+                    </div>
+                    <div class="card-body">
+                        <div class="tab-pane" id="timeline">
+
+                            <div class="timeline timeline-inverse">
+                                @foreach (var item in Model)
+                                {
+                                    <div>
+                                        <div class="timeline-item">
+                                            <h2 class="timeline-header">
+                                                <b>@item.Hobi</b>
+                                            </h2>
+                                            <div class="timeline-body">
+                                                @item.Aciklama
+                                            </div>
+                                            <div class="timeline-footer">
+                                                <a href="/Interest/UpdateInterest/@item.Id" class="btn btn-primary btn-sm">Düzenle</a>
+                                                <a href="/Interest/DeleteInterest/@item.Id" class="btn btn-danger btn-sm">Sil</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+</body>
+</html>
+
+
+

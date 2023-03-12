@@ -1,0 +1,61 @@
+﻿@using MyCvProject.Models.Entities
+@model List<Certificate>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Sertifika Sayfası</h3>
+                    </div>
+                    <div>
+                        <a href="/Certificate/AddCertificate/" class="btn btn-info ml-3 mt-2">Yeni Sertifika Ekle</a>
+                    </div>
+                    <div class="card-body">
+                        <div class="tab-pane" id="timeline">
+
+                            <div class="timeline timeline-inverse">
+                                @foreach (var item in Model)
+                                {
+                                    <div class="time-label">
+                                        <span class="bg-warning">
+                                            @item.Tarih
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <i class="fas fa-file bg-primary"></i>
+                                        <div class="timeline-item">
+                                            <p class="time" style="font-size: medium"><i class="far fa-university"></i>@item.VerenKurulus</p>
+                                            <h2 class="timeline-header">
+                                                <b>@item.SertifikaAdı</b>
+                                            </h2>
+                                            <div class="timeline-body">
+                                                @item.Aciklama
+                                            </div>
+                                            <div class="timeline-footer">
+                                                <a href="/Certificate/UpdateCertificate/@item.Id" class="btn btn-primary btn-sm">Düzenle</a>
+                                                <a href="/Certificate/DeleteCertificate/@item.Id" class="btn btn-danger btn-sm">Sil</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+</body>
+</html>
+

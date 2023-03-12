@@ -1,0 +1,104 @@
+﻿@using MyCvProject.Models.Entities
+@model List<Skill>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@{
+    string dereceRenk = "";
+    string oranRenk = "";
+}
+
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <section class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Yetenek Listem</h3>
+                            </div>
+                            <div class="card-body">
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th style="width: 10px">#</th>
+                                            <th>Yetenek</th>
+                                            <th>Derece</th>
+                                            <th style="width: 40px">Oran</th>
+                                            <th>İşlemler</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+
+                                        @foreach (var item in Model)
+                                        {
+                                            if (item.Oran >= 0 && item.Oran <= 25)
+                                            {
+                                                dereceRenk = "progress-bar bg-danger";
+                                            }
+                                            if (item.Oran >= 26 && item.Oran <= 50)
+                                            {
+                                                dereceRenk = "progress-bar bg-warning";
+                                            }
+                                            if (item.Oran >= 51 && item.Oran <= 75)
+                                            {
+                                                dereceRenk = "progress-bar bg-success";
+                                            }
+                                            if (item.Oran >= 76 && item.Oran <= 100)
+                                            {
+                                                dereceRenk = "progress-bar bg-primary";
+                                            }
+
+                                            if (item.Oran >= 0 && item.Oran <= 25)
+                                            {
+                                                oranRenk = "badge bg-danger";
+                                            }
+                                            if (item.Oran >= 26 && item.Oran <= 50)
+                                            {
+                                                oranRenk = "badge bg-warning";
+                                            }
+                                            if (item.Oran >= 51 && item.Oran <= 75)
+                                            {
+                                                oranRenk = "badge bg-success";
+                                            }
+                                            if (item.Oran >= 76 && item.Oran <= 100)
+                                            {
+                                                oranRenk = "badge bg-primary";
+                                            }
+
+
+                                            <tr>
+                                                <td>@item.Id</td>
+                                                <td>@item.Yetenek</td>
+                                                <td>
+                                                    <div class="progress progress-xs">
+                                                        <div class="@dereceRenk" style="width: @item.Oran%"></div>
+                                                    </div>
+                                                </td>
+                                                <td><span class="@oranRenk">@item.Oran</span></td>
+                                                <td>
+                                                    <a href="/Skills/DeleteSkills/@item.Id" class="btn btn-danger"><i class="fas fa-trash mr-2"></i>Sil</a>
+                                                    <a href="/Skills/UpdateSkills/@item.Id" class="btn btn-success"><i class="fas fa-pencil-alt mr-2"></i>Düzenle</a>
+                                                </td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                                <br />
+                                <a href="/Skills/AddSkills/" class="btn btn-info">Yetenek Ekle</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+

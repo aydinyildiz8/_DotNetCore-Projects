@@ -1,0 +1,36 @@
+﻿@using MyCvProject.Models.Entities
+@model List<Experience>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h1>Deneyim Sayfası</h1>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Meslek</th>
+        <th>Alan</th>
+        <th>Açıklama</th>
+        <th>Tarih</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Meslek</td>
+            <td>@item.Alan</td>
+            <td>@item.Aciklama</td>
+            <td>@item.Tarih</td>
+            <td><a href="/Experience/DeleteExperience/@item.Id" class="btn btn-danger">Sil</a></td>
+            <td><a href="/Experience/UpdateExperience/@item.Id" class="btn btn-success">Güncelle</a></td>
+        </tr>
+    }
+
+</table>
+<a href="/Experience/AddExperience" class="btn btn-primary">Yeni Deneyim Ekle</a>

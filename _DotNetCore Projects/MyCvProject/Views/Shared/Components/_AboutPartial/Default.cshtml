@@ -1,0 +1,24 @@
+﻿@using MyCvProject.Models.Entities
+@model List<About>
+
+<section class="resume-section" id="about">
+    <div class="resume-section-content">
+        @foreach (var item in Model)
+        {
+            <h1 class="mb-0">
+                @item.Ad
+                <span class="text-primary">@item.Soyad</span>
+            </h1>
+            <h4 class="mb-0">
+                <span class="text-primary">@item.Meslek</span>
+            </h4>
+            <div class="subheading mb-5">
+                @item.Adres · @item.Telefon ·
+                <a href="@item.Mail">@item.Mail</a>
+            </div>
+            <p class="lead mb-5">@item.Aciklama</p>
+
+            @await Component.InvokeAsync("_SocialMediaPartial")
+        }
+    </div>
+</section>

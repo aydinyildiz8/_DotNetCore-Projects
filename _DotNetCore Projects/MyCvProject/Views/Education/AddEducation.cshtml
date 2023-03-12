@@ -1,0 +1,36 @@
+﻿@model MyCvProject.Models.Entities.Education
+
+@{
+    ViewData["Title"] = "AddEducation";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<br />
+<h4>Yeni Eğitim Ekleme Sayfası</h4>
+<form method="post">
+
+    @Html.Label("Okul")
+    @Html.TextBoxFor(x => x.Okul, new {@class = "form-control"})
+    @Html.ValidationMessageFor(x => x.Okul,"",new{@class = "text-danger"})
+    <br />
+
+    @Html.Label("Fakülte")
+    @Html.TextBoxFor(x => x.Fakülte, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Bölüm")
+    @Html.TextBoxFor(x => x.Bölüm, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Genel Not Ortalaması")
+    @Html.TextBoxFor(x => x.Gno, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Mezuniyet Tarihi")
+    @Html.TextBoxFor(x => x.MezuniyetTarihi, new {@class = "form-control"})
+    <br />
+
+    <button type="submit" class="btn btn-info">KAYDET</button>
+</form>
+

@@ -1,0 +1,20 @@
+﻿@using MyCvProject.Models.Entities
+@model List<Certificate>
+
+<section class="resume-section" id="awards">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Certifications</h2>
+
+        @foreach (var item in Model)
+        {
+            <ul class="fa-ul mb-0">
+                <li>
+                    <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                    @item.SertifikaAdı / @item.VerenKurulus
+                    <p>@item.Aciklama</p>
+                    <hr />
+                </li>
+            </ul>
+        }
+    </div>
+</section>

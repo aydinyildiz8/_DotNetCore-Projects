@@ -1,0 +1,22 @@
+﻿@model MyCvProject.Models.Entities.Skill
+
+@{
+    ViewData["Title"] = "AddSkills";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h4>Yeni Yetenek Ekleme Sayfası</h4>
+<form method="post">
+    @Html.Label("Yetenek")
+    @Html.TextBoxFor(x => x.Yetenek, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Alan")
+    @Html.TextBoxFor(x => x.Oran, new {@class = "form-control"})
+    <br />
+
+    <button type="submit" class="btn btn-info">KAYDET</button>
+</form>
+
+

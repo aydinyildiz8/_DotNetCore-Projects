@@ -1,0 +1,40 @@
+﻿@using MyCvProject.Models.Entities
+@model List<Education>
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<br />
+<h1>Eğitim Sayfası</h1>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Okul</th>
+        <th>Fakülte</th>
+        <th>Bölüm</th>
+        <th>Genel Not Ort.</th>
+        <th>Mezuniyet Tarihi</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Okul</td>
+            <td>@item.Fakülte</td>
+            <td>@item.Bölüm</td>
+            <td>@item.Gno</td>
+            <td>@item.MezuniyetTarihi</td>
+            <td><a href="/Education/DeleteEducation/@item.Id" class="btn btn-danger">Sil</a></td>
+            <td><a href="/Education/UpdateEducation/@item.Id" class="btn btn-success">Güncelle</a></td>
+        </tr>
+    }
+
+</table>
+<a href="/Education/AddEducation" class="btn btn-primary">Yeni Deneyim Ekle</a>

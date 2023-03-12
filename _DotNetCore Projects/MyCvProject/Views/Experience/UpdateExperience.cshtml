@@ -1,0 +1,35 @@
+﻿@model MyCvProject.Models.Entities.Experience
+
+@{
+    ViewData["Title"] = "UpdateExperience";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h4>Deneyim Güncelleme Sayfası</h4>
+<form method="post">
+    @Html.Label("ID")
+    @Html.TextBoxFor(x => x.Id, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Meslek")
+    @Html.TextBoxFor(x => x.Meslek, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Alan")
+    @Html.TextBoxFor(x => x.Alan, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Açıklama")
+    @Html.TextBoxFor(x => x.Aciklama, new {@class = "form-control"})
+    <br />
+
+    @Html.Label("Tarih")
+    @Html.TextBoxFor(x => x.Tarih, new {@class = "form-control"})
+    <br />
+
+    <button type="submit" class="btn btn-info">GÜNCELLE</button>
+</form>
+
+
+
